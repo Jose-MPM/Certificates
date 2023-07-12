@@ -7,10 +7,10 @@ In this repository you will find some certificates that support my abilities/ski
 		- 
 	- Cybersecurity:
 		- Introduction to Cyber Security:
-
-| ![](img/Cybersecurity/THM-FR1TBZ4MFS.png) |
-|:---------------------------:|
-| Certificate of Introduction to Cyber Security by THM |
+		
+		| ![](Cybersecurity/THM-FR1TBZ4MFS.png) |
+		|:---------------------------:|
+		| Certificate of Introduction to Cyber Security by THM |
 
 	- Artificial Inteligence:
 	- Several Different Topics:
