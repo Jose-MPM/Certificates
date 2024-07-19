@@ -8,8 +8,8 @@ In this repository you will find some certificates that support my abilities/ski
 * **Structure-Topics**:	
 	
 	- Cybersecurity
-	- [Introduction to Cyber Security](#introduction-to-cyber-security-by-tryhackme)
-		- Basics of Cyber Security.
+		- [Introduction to Cyber Security](#introduction-to-cyber-security-by-tryhackme)
+			- Basics of Cyber Security.
 	
 	- Several Different Topics:
 		- [Work Smarter, not harder(not only)](#work-smarter-not-only-harder-by-university-of-california-irvine--coursera) by University of California, Irvine.
@@ -25,7 +25,7 @@ In this repository you will find some certificates that support my abilities/ski
 		- [Capstone Python: Retrieving, Processing and Visualizing Data with Python](#capstone-python-by-university-of-michigan--coursera)
 			- Final project for the Python specialization.
 
-	- [Artificial Intelligence: Sesenta años de inteligencia artificial](#sesenta-anos-de-inteligencia-artificial-by-university-of-buenos-aires)
+	- [Artificial Intelligence: Sesenta anios de inteligencia artificial](#sesenta-anios-de-inteligencia-artificial-by-unam--coursera)
 		- History and development of AI.
 
 ## Cybersecurity
@@ -74,8 +74,8 @@ In this repository you will find some certificates that support my abilities/ski
 
 ## Artificial Intelligence
 
-### Sesenta años de inteligencia artificial by University of Buenos Aires
+### Sesenta anios de inteligencia artificial by UNAM | Coursera.
 
-| ![](AI/Sesenta%20anos%20de%20inteligencia%20artificial.jpg) |
+| ![](AI/Sesenta%20anios%20de%20inteligencia%20artificial.jpg) |
 |:----------------------------------:|
-| Certificate of Sesenta años de inteligencia artificial |
+| Certificate of Sesenta anios de inteligencia artificial |
