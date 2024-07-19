@@ -23,6 +23,7 @@ In this repository you will find some certificates that support my abilities/ski
 
 - Time management for personal and professional productivity
 
-		| ![](Omnimodo/WorkSmarter.jpg) |
-		|:---------------------------:|
-		| Certificate of Introduction to Cyber Security by THM |
+| ![](Omnimodo/WorkSmarter.jpg) |
+|:---------------------------:|
+| Certificate of Introduction to Cyber Security by THM |
+
