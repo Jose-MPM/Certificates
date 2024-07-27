@@ -10,6 +10,7 @@ In this repository you will find some certificates that support my abilities/ski
 	- Cybersecurity
 		- [Introduction to Cyber Security](#introduction-to-cyber-security-by-tryhackme)
 			- Basics of Cyber Security.
+		- [Event: Industry 4.0: Cybersecurity: Risks and oportunities.](#industria-40-ciberseguridad-retos-y-oportunidades)
 	
 	- Several Different Topics:
 		- [Work Smarter, not harder(not only)](#work-smarter-not-only-harder-by-university-of-california-irvine--coursera) by University of California, Irvine.
@@ -35,6 +36,13 @@ In this repository you will find some certificates that support my abilities/ski
 | ![](Cybersecurity/THM-FR1TBZ4MFS.png) |
 |:----------------------------------:|
 | Certificate of Introduction to Cyber Security by THM |
+
+### Industria 4.0: Ciberseguridad retos y oportunidades
+
+| ![](Cybersecurity/CibersecuridadRetosJMPM.jpg) |
+|:----------------------------------:|
+| Attendance Certificate |
+
 
 ## Work Smarter, not only harder by University of California, Irvine | Coursera.
 
